@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Triple Nix Nation 2026-27//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Triple Nix Nation – Nationleague 2026/27
+BEGIN:VEVENT
+UID:72edce0b-9f8e-4623-abcf-96f575dd93b7@openai
+DTSTAMP:20260921T195129Z
+DTSTART;TZID=Europe/Vienna:20261013T193000
+DTEND;TZID=Europe/Vienna:20261013T213000
+SUMMARY:Triple Nix Nation – Blue Bulls
+LOCATION:Gasthaus zum Waldfrieden\, Angern 9\, 5204 Strasswalchen
+DESCRIPTION:Throw Dart-Liga Austria – Nationleague 2026/27\, Division 2. Wunschtermin laut Spielplan.
+END:VEVENT
+BEGIN:VEVENT
+UID:acef1750-780b-48c5-b92a-30dee82880e7@openai
+DTSTAMP:20260921T195129Z
+DTSTART;TZID=Europe/Vienna:20261027T193000
+DTEND;TZID=Europe/Vienna:20261027T213000
+SUMMARY:DC Bleib Locka 5 – Triple Nix Nation
+LOCATION:Gasthaus zum Waldfrieden\, Angern 9\, 5204 Strasswalchen
+DESCRIPTION:Throw Dart-Liga Austria – Nationleague 2026/27\, Division 2. Wunschtermin laut Spielplan.
+END:VEVENT
+BEGIN:VEVENT
+UID:d9434793-9f0e-48cb-8134-7a0293e160a6@openai
+DTSTAMP:20260921T195129Z
+DTSTART;TZID=Europe/Vienna:20261110T193000
+DTEND;TZID=Europe/Vienna:20261110T213000
+SUMMARY:Triple Nix Nation – Ennser Darter
+LOCATION:Dartverein Enns\, Hanuschstr. 31\, 4470 Enns
+DESCRIPTION:Throw Dart-Liga Austria – Nationleague 2026/27\, Division 2. Wunschtermin laut Spielplan.
+END:VEVENT
+BEGIN:VEVENT
+UID:fb645079-26e9-4010-a255-233c1430a551@openai
+DTSTAMP:20260921T195129Z
+DTSTART;TZID=Europe/Vienna:20261124T193000
+DTEND;TZID=Europe/Vienna:20261124T213000
+SUMMARY:DSV Snipers 1 – Triple Nix Nation
+LOCATION:Gasthaus zum Waldfrieden\, Angern 9\, 5204 Strasswalchen
+DESCRIPTION:Throw Dart-Liga Austria – Nationleague 2026/27\, Division 2. Wunschtermin laut Spielplan.
+END:VEVENT
+BEGIN:VEVENT
+UID:587eb5ae-562f-4784-a978-5ebf3ffe9cea@openai
+DTSTAMP:20260921T195129Z
+DTSTART;TZID=Europe/Vienna:20261210T190000
+DTEND;TZID=Europe/Vienna:20261210T210000
+SUMMARY:Triple Nix Nation – Darting Slayers
+LOCATION:Palace Entertainment\, Schönauerstr. 9\, 4400 Steyr
+DESCRIPTION:Throw Dart-Liga Austria – Nationleague 2026/27\, Division 2. Wunschtermin laut Spielplan.
+END:VEVENT
+BEGIN:VEVENT
+UID:10b72158-de39-40fa-86f6-67ed59ebb01b@openai
+DTSTAMP:20260921T195129Z
+DTSTART;TZID=Europe/Vienna:20270105T193000
+DTEND;TZID=Europe/Vienna:20270105T213000
+SUMMARY:DC Floriani Bouncers – Triple Nix Nation
+LOCATION:Gasthaus zum Waldfrieden\, Angern 9\, 5204 Strasswalchen
+DESCRIPTION:Throw Dart-Liga Austria – Nationleague 2026/27\, Division 2. Wunschtermin laut Spielplan.
+END:VEVENT
+BEGIN:VEVENT
+UID:dd3903f7-f8b0-4919-9b42-2ce9ef9f15a1@openai
+DTSTAMP:20260921T195129Z
+DTSTART;TZID=Europe/Vienna:20270119T193000
+DTEND;TZID=Europe/Vienna:20270119T213000
+SUMMARY:Triple Nix Nation – DC St. Veit 1
+LOCATION:DC St. Veit\, Gölsentalstr. 39 B\, 3161 St. Veit / Gölsen
+DESCRIPTION:Throw Dart-Liga Austria – Nationleague 2026/27\, Division 2. Wunschtermin laut Spielplan.
+END:VEVENT
+BEGIN:VEVENT
+UID:e092d75b-37b0-467d-a855-3b481ab17db0@openai
+DTSTAMP:20260921T195129Z
+DTSTART;TZID=Europe/Vienna:20270202T193000
+DTEND;TZID=Europe/Vienna:20270202T213000
+SUMMARY:Blue Bulls – Triple Nix Nation
+LOCATION:Gasthaus zum Waldfrieden\, Angern 9\, 5204 Strasswalchen
+DESCRIPTION:Throw Dart-Liga Austria – Nationleague 2026/27\, Division 2. Wunschtermin laut Spielplan.
+END:VEVENT
+BEGIN:VEVENT
+UID:a43aaa07-1bfe-4cff-989a-c0a30542ce01@openai
+DTSTAMP:20260921T195129Z
+DTSTART;TZID=Europe/Vienna:20270216T190000
+DTEND;TZID=Europe/Vienna:20270216T210000
+SUMMARY:Triple Nix Nation – DC Bleib Locka 5
+LOCATION:Club 24 / 7\, Carl-Benz Str. 18 B\, 3300 Amstetten
+DESCRIPTION:Throw Dart-Liga Austria – Nationleague 2026/27\, Division 2. Wunschtermin laut Spielplan.
+END:VEVENT
+BEGIN:VEVENT
+UID:a86deef5-1102-4f3b-97fb-c026678a8916@openai
+DTSTAMP:20260921T195129Z
+DTSTART;TZID=Europe/Vienna:20270302T193000
+DTEND;TZID=Europe/Vienna:20270302T213000
+SUMMARY:Ennser Darter – Triple Nix Nation
+LOCATION:Gasthaus zum Waldfrieden\, Angern 9\, 5204 Strasswalchen
+DESCRIPTION:Throw Dart-Liga Austria – Nationleague 2026/27\, Division 2. Wunschtermin laut Spielplan.
+END:VEVENT
+BEGIN:VEVENT
+UID:4c372234-a15c-462a-91f6-8e271117416c@openai
+DTSTAMP:20260921T195129Z
+DTSTART;TZID=Europe/Vienna:20270317T193000
+DTEND;TZID=Europe/Vienna:20270317T213000
+SUMMARY:Triple Nix Nation – DSV Snipers 1
+LOCATION:DSV Snipers Marchtrenk\, Gothestrasse 7\, 4614 Marchtrenk
+DESCRIPTION:Throw Dart-Liga Austria – Nationleague 2026/27\, Division 2. Wunschtermin laut Spielplan.
+END:VEVENT
+BEGIN:VEVENT
+UID:39bc6867-aa3c-419b-b21c-3c9c5375b23e@openai
+DTSTAMP:20260921T195129Z
+DTSTART;TZID=Europe/Vienna:20270330T193000
+DTEND;TZID=Europe/Vienna:20270330T213000
+SUMMARY:Darting Slayers – Triple Nix Nation
+LOCATION:Gasthaus zum Waldfrieden\, Angern 9\, 5204 Strasswalchen
+DESCRIPTION:Throw Dart-Liga Austria – Nationleague 2026/27\, Division 2. Wunschtermin laut Spielplan.
+END:VEVENT
+BEGIN:VEVENT
+UID:faedeb10-dd16-46aa-a371-309b18f3a6d9@openai
+DTSTAMP:20260921T195129Z
+DTSTART;TZID=Europe/Vienna:20270413T190000
+DTEND;TZID=Europe/Vienna:20270413T210000
+SUMMARY:Triple Nix Nation – DC Floriani Bouncers
+LOCATION:Dartclub Floriani\, Weinbergweg 6\, 5120 St. Pantaleon
+DESCRIPTION:Throw Dart-Liga Austria – Nationleague 2026/27\, Division 2. Wunschtermin laut Spielplan.
+END:VEVENT
+BEGIN:VEVENT
+UID:2ff5e7e6-11fe-4981-bf0f-c2e448f6b420@openai
+DTSTAMP:20260921T195129Z
+DTSTART;TZID=Europe/Vienna:20270504T193000
+DTEND;TZID=Europe/Vienna:20270504T213000
+SUMMARY:DC St. Veit 1 – Triple Nix Nation
+LOCATION:Gasthaus zum Waldfrieden\, Angern 9\, 5204 Strasswalchen
+DESCRIPTION:Throw Dart-Liga Austria – Nationleague 2026/27\, Division 2. Wunschtermin laut Spielplan.
+END:VEVENT
+END:VCALENDAR
